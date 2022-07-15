@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Nikita1992
 - 👀 I’m interested in Economics | Data Analysis | Macroeconomics | Quantitative Research
-- 🌱 I’m currently learning Machine Learning models.
 - 🤝 I’m looking to collaborate on Empirical Research Projects. 
 - 📫 How to reach me nikitasingh2021@gmail.com 
 
